@@ -1,0 +1,301 @@
+﻿Province_ID,Age_Group,Gender,Sales,Units,Province,Region
+P01,15-18,Female,2357594112.0,660.0,Hanoi,North
+P01,15-18,Male,541814459.0,156.0,Hanoi,North
+P01,19-26,Female,4171815722.0,1184.0,Hanoi,North
+P01,19-26,Male,1138028127.0,318.0,Hanoi,North
+P01,27-35,Female,4048409680.0,1151.0,Hanoi,North
+P01,27-35,Male,1409952461.0,403.0,Hanoi,North
+P01,36-45,Female,4306799780.0,1222.0,Hanoi,North
+P01,36-45,Male,1349456806.0,382.0,Hanoi,North
+P01,9-14,Female,2782621769.0,793.0,Hanoi,North
+P01,9-14,Male,726605930.0,205.0,Hanoi,North
+P02,15-18,Female,1953512128.0,564.0,Hai Phong,North
+P02,15-18,Male,643077709.0,176.0,Hai Phong,North
+P02,19-26,Female,3715415154.0,1040.0,Hai Phong,North
+P02,19-26,Male,1031993847.0,284.0,Hai Phong,North
+P02,27-35,Female,3644125314.0,1057.0,Hai Phong,North
+P02,27-35,Male,1249872727.0,356.0,Hai Phong,North
+P02,36-45,Female,3990342749.0,1100.0,Hai Phong,North
+P02,36-45,Male,1103442931.0,313.0,Hai Phong,North
+P02,9-14,Female,2698564565.0,766.0,Hai Phong,North
+P02,9-14,Male,759208452.0,224.0,Hai Phong,North
+P03,15-18,Female,2068497494.0,584.0,Quang Ninh,North
+P03,15-18,Male,701778511.0,210.0,Quang Ninh,North
+P03,19-26,Female,3940745058.0,1108.0,Quang Ninh,North
+P03,19-26,Male,1119508715.0,320.0,Quang Ninh,North
+P03,27-35,Female,4348464827.0,1243.0,Quang Ninh,North
+P03,27-35,Male,1079097842.0,300.0,Quang Ninh,North
+P03,36-45,Female,4098070942.0,1154.0,Quang Ninh,North
+P03,36-45,Male,1182958131.0,344.0,Quang Ninh,North
+P03,9-14,Female,3122058294.0,889.0,Quang Ninh,North
+P03,9-14,Male,892188244.0,244.0,Quang Ninh,North
+P04,15-18,Female,2771578779.0,791.0,Bac Ninh,North
+P04,15-18,Male,718514371.0,209.0,Bac Ninh,North
+P04,19-26,Female,5131880882.0,1472.0,Bac Ninh,North
+P04,19-26,Male,1482824443.0,412.0,Bac Ninh,North
+P04,27-35,Female,5828743297.0,1652.0,Bac Ninh,North
+P04,27-35,Male,1600997635.0,456.0,Bac Ninh,North
+P04,36-45,Female,5507685229.0,1576.0,Bac Ninh,North
+P04,36-45,Male,1582893385.0,446.0,Bac Ninh,North
+P04,9-14,Female,4665990688.0,1318.0,Bac Ninh,North
+P04,9-14,Male,1406541092.0,394.0,Bac Ninh,North
+P05,15-18,Female,1304684247.0,374.0,Hai Duong,North
+P05,15-18,Male,357460624.0,101.0,Hai Duong,North
+P05,19-26,Female,2353545247.0,673.0,Hai Duong,North
+P05,19-26,Male,611054257.0,175.0,Hai Duong,North
+P05,27-35,Female,2241779754.0,639.0,Hai Duong,North
+P05,27-35,Male,672376217.0,183.0,Hai Duong,North
+P05,36-45,Female,2539970729.0,731.0,Hai Duong,North
+P05,36-45,Male,813227968.0,233.0,Hai Duong,North
+P05,9-14,Female,1509371206.0,438.0,Hai Duong,North
+P05,9-14,Male,614489569.0,179.0,Hai Duong,North
+P06,15-18,Female,2787876271.0,794.0,Hung Yen,North
+P06,15-18,Male,757531493.0,222.0,Hung Yen,North
+P06,19-26,Female,5467548907.0,1565.0,Hung Yen,North
+P06,19-26,Male,1620933955.0,460.0,Hung Yen,North
+P06,27-35,Female,5622807896.0,1592.0,Hung Yen,North
+P06,27-35,Male,1697401691.0,487.0,Hung Yen,North
+P06,36-45,Female,6080437032.0,1729.0,Hung Yen,North
+P06,36-45,Male,1651425911.0,468.0,Hung Yen,North
+P06,9-14,Female,4098072067.0,1163.0,Hung Yen,North
+P06,9-14,Male,1217723330.0,352.0,Hung Yen,North
+P07,15-18,Female,2048684361.0,578.0,Thai Nguyen,North
+P07,15-18,Male,556576854.0,150.0,Thai Nguyen,North
+P07,19-26,Female,3888489156.0,1102.0,Thai Nguyen,North
+P07,19-26,Male,1126993556.0,325.0,Thai Nguyen,North
+P07,27-35,Female,3656909288.0,1035.0,Thai Nguyen,North
+P07,27-35,Male,1255363002.0,360.0,Thai Nguyen,North
+P07,36-45,Female,3939306772.0,1125.0,Thai Nguyen,North
+P07,36-45,Male,1156891346.0,323.0,Thai Nguyen,North
+P07,9-14,Female,2874177599.0,813.0,Thai Nguyen,North
+P07,9-14,Male,970233854.0,278.0,Thai Nguyen,North
+P08,15-18,Female,2031717958.0,576.0,Vinh Phuc,North
+P08,15-18,Male,521239179.0,148.0,Vinh Phuc,North
+P08,19-26,Female,3922368381.0,1125.0,Vinh Phuc,North
+P08,19-26,Male,1129470893.0,331.0,Vinh Phuc,North
+P08,27-35,Female,3671146326.0,1045.0,Vinh Phuc,North
+P08,27-35,Male,1110507285.0,308.0,Vinh Phuc,North
+P08,36-45,Female,3768973419.0,1066.0,Vinh Phuc,North
+P08,36-45,Male,1200429888.0,349.0,Vinh Phuc,North
+P08,9-14,Female,3146058838.0,898.0,Vinh Phuc,North
+P08,9-14,Male,788942337.0,228.0,Vinh Phuc,North
+P09,15-18,Female,1380350397.0,386.0,Nam Dinh,North
+P09,15-18,Male,435840340.0,125.0,Nam Dinh,North
+P09,19-26,Female,2766911520.0,795.0,Nam Dinh,North
+P09,19-26,Male,567034179.0,160.0,Nam Dinh,North
+P09,27-35,Female,2846121017.0,799.0,Nam Dinh,North
+P09,27-35,Male,832140582.0,231.0,Nam Dinh,North
+P09,36-45,Female,3095619129.0,873.0,Nam Dinh,North
+P09,36-45,Male,718755492.0,203.0,Nam Dinh,North
+P09,9-14,Female,1975133122.0,553.0,Nam Dinh,North
+P09,9-14,Male,612708049.0,179.0,Nam Dinh,North
+P10,15-18,Female,1394763568.0,390.0,Ninh Binh,North
+P10,15-18,Male,376507516.0,112.0,Ninh Binh,North
+P10,19-26,Female,2273216644.0,652.0,Ninh Binh,North
+P10,19-26,Male,678331831.0,191.0,Ninh Binh,North
+P10,27-35,Female,2959857879.0,843.0,Ninh Binh,North
+P10,27-35,Male,829614910.0,237.0,Ninh Binh,North
+P10,36-45,Female,2713041627.0,767.0,Ninh Binh,North
+P10,36-45,Male,818330582.0,236.0,Ninh Binh,North
+P10,9-14,Female,2011420271.0,573.0,Ninh Binh,North
+P10,9-14,Male,662406641.0,184.0,Ninh Binh,North
+P11,15-18,Female,1271671004.0,353.0,Thanh Hoa,Central
+P11,15-18,Male,352165411.0,97.0,Thanh Hoa,Central
+P11,19-26,Female,2458616839.0,686.0,Thanh Hoa,Central
+P11,19-26,Male,622842292.0,179.0,Thanh Hoa,Central
+P11,27-35,Female,2209658101.0,629.0,Thanh Hoa,Central
+P11,27-35,Male,599030263.0,172.0,Thanh Hoa,Central
+P11,36-45,Female,2167076209.0,625.0,Thanh Hoa,Central
+P11,36-45,Male,797058376.0,229.0,Thanh Hoa,Central
+P11,9-14,Female,1707716761.0,463.0,Thanh Hoa,Central
+P11,9-14,Male,534971942.0,154.0,Thanh Hoa,Central
+P12,15-18,Female,2740649231.0,796.0,Nghe An,Central
+P12,15-18,Male,839340306.0,239.0,Nghe An,Central
+P12,19-26,Female,5660101516.0,1610.0,Nghe An,Central
+P12,19-26,Male,1614418056.0,461.0,Nghe An,Central
+P12,27-35,Female,6129883251.0,1744.0,Nghe An,Central
+P12,27-35,Male,1790933797.0,505.0,Nghe An,Central
+P12,36-45,Female,5923531165.0,1681.0,Nghe An,Central
+P12,36-45,Male,1680675066.0,476.0,Nghe An,Central
+P12,9-14,Female,4223582662.0,1213.0,Nghe An,Central
+P12,9-14,Male,1206455755.0,336.0,Nghe An,Central
+P13,15-18,Female,2864862940.0,817.0,Ha Tinh,Central
+P13,15-18,Male,698872026.0,200.0,Ha Tinh,Central
+P13,19-26,Female,4904270061.0,1373.0,Ha Tinh,Central
+P13,19-26,Male,1376097688.0,396.0,Ha Tinh,Central
+P13,27-35,Female,5629480640.0,1588.0,Ha Tinh,Central
+P13,27-35,Male,1516974435.0,426.0,Ha Tinh,Central
+P13,36-45,Female,5475534637.0,1578.0,Ha Tinh,Central
+P13,36-45,Male,1405304569.0,399.0,Ha Tinh,Central
+P13,9-14,Female,3635047019.0,1022.0,Ha Tinh,Central
+P13,9-14,Male,1048438432.0,297.0,Ha Tinh,Central
+P14,15-18,Female,3186770383.0,899.0,Quang Binh,Central
+P14,15-18,Male,737466263.0,214.0,Quang Binh,Central
+P14,19-26,Female,5733554955.0,1652.0,Quang Binh,Central
+P14,19-26,Male,1658485102.0,471.0,Quang Binh,Central
+P14,27-35,Female,6008364760.0,1683.0,Quang Binh,Central
+P14,27-35,Male,1788530352.0,508.0,Quang Binh,Central
+P14,36-45,Female,5735471332.0,1614.0,Quang Binh,Central
+P14,36-45,Male,1721373684.0,488.0,Quang Binh,Central
+P14,9-14,Female,4746854672.0,1333.0,Quang Binh,Central
+P14,9-14,Male,1353073001.0,381.0,Quang Binh,Central
+P15,15-18,Female,1481668565.0,422.0,Quang Tri,Central
+P15,15-18,Male,414432224.0,118.0,Quang Tri,Central
+P15,19-26,Female,3176873415.0,908.0,Quang Tri,Central
+P15,19-26,Male,856556172.0,241.0,Quang Tri,Central
+P15,27-35,Female,3317777218.0,940.0,Quang Tri,Central
+P15,27-35,Male,832013379.0,240.0,Quang Tri,Central
+P15,36-45,Female,3350939084.0,955.0,Quang Tri,Central
+P15,36-45,Male,928858277.0,265.0,Quang Tri,Central
+P15,9-14,Female,2385064157.0,668.0,Quang Tri,Central
+P15,9-14,Male,740670936.0,220.0,Quang Tri,Central
+P16,15-18,Female,741409386.0,211.0,Hue,Central
+P16,15-18,Male,242989016.0,70.0,Hue,Central
+P16,19-26,Female,1553997270.0,427.0,Hue,Central
+P16,19-26,Male,424675687.0,120.0,Hue,Central
+P16,27-35,Female,1526170185.0,434.0,Hue,Central
+P16,27-35,Male,512639362.0,150.0,Hue,Central
+P16,36-45,Female,1809243302.0,509.0,Hue,Central
+P16,36-45,Male,515651241.0,144.0,Hue,Central
+P16,9-14,Female,1296681137.0,363.0,Hue,Central
+P16,9-14,Male,359176372.0,104.0,Hue,Central
+P17,15-18,Female,1661823896.0,471.0,Da Nang,Central
+P17,15-18,Male,446802266.0,130.0,Da Nang,Central
+P17,19-26,Female,3225973623.0,911.0,Da Nang,Central
+P17,19-26,Male,908718412.0,258.0,Da Nang,Central
+P17,27-35,Female,3668604691.0,1049.0,Da Nang,Central
+P17,27-35,Male,936445389.0,270.0,Da Nang,Central
+P17,36-45,Female,3375033083.0,957.0,Da Nang,Central
+P17,36-45,Male,1061566287.0,295.0,Da Nang,Central
+P17,9-14,Female,2562599722.0,729.0,Da Nang,Central
+P17,9-14,Male,760139334.0,215.0,Da Nang,Central
+P18,15-18,Female,941962719.0,269.0,Quang Nam,Central
+P18,15-18,Male,197253694.0,53.0,Quang Nam,Central
+P18,19-26,Female,1555211450.0,445.0,Quang Nam,Central
+P18,19-26,Male,540962575.0,154.0,Quang Nam,Central
+P18,27-35,Female,2162158014.0,607.0,Quang Nam,Central
+P18,27-35,Male,506403101.0,137.0,Quang Nam,Central
+P18,36-45,Female,1793467612.0,517.0,Quang Nam,Central
+P18,36-45,Male,530152436.0,151.0,Quang Nam,Central
+P18,9-14,Female,1250390214.0,351.0,Quang Nam,Central
+P18,9-14,Male,279559217.0,74.0,Quang Nam,Central
+P19,15-18,Female,2783668888.0,790.0,Quang Ngai,Central
+P19,15-18,Male,744487432.0,212.0,Quang Ngai,Central
+P19,19-26,Female,5504177952.0,1559.0,Quang Ngai,Central
+P19,19-26,Male,1530520732.0,427.0,Quang Ngai,Central
+P19,27-35,Female,5778085761.0,1640.0,Quang Ngai,Central
+P19,27-35,Male,1762867323.0,494.0,Quang Ngai,Central
+P19,36-45,Female,6139813197.0,1733.0,Quang Ngai,Central
+P19,36-45,Male,1674660139.0,481.0,Quang Ngai,Central
+P19,9-14,Female,4314238851.0,1219.0,Quang Ngai,Central
+P19,9-14,Male,1254143944.0,364.0,Quang Ngai,Central
+P20,15-18,Female,1973037126.0,567.0,Binh Dinh,Central
+P20,15-18,Male,492290447.0,137.0,Binh Dinh,Central
+P20,19-26,Female,3598819020.0,1023.0,Binh Dinh,Central
+P20,19-26,Male,1152635154.0,334.0,Binh Dinh,Central
+P20,27-35,Female,3926276398.0,1108.0,Binh Dinh,Central
+P20,27-35,Male,1070004301.0,310.0,Binh Dinh,Central
+P20,36-45,Female,4005239859.0,1150.0,Binh Dinh,Central
+P20,36-45,Male,1060027007.0,302.0,Binh Dinh,Central
+P20,9-14,Female,3206131641.0,907.0,Binh Dinh,Central
+P20,9-14,Male,870945045.0,240.0,Binh Dinh,Central
+P21,15-18,Female,2377332685.0,685.0,Khanh Hoa,South
+P21,15-18,Male,598697166.0,167.0,Khanh Hoa,South
+P21,19-26,Female,4495650206.0,1273.0,Khanh Hoa,South
+P21,19-26,Male,1325398221.0,371.0,Khanh Hoa,South
+P21,27-35,Female,4630713301.0,1328.0,Khanh Hoa,South
+P21,27-35,Male,1290850077.0,359.0,Khanh Hoa,South
+P21,36-45,Female,5038983862.0,1436.0,Khanh Hoa,South
+P21,36-45,Male,1414517948.0,401.0,Khanh Hoa,South
+P21,9-14,Female,3246793821.0,920.0,Khanh Hoa,South
+P21,9-14,Male,1146727151.0,330.0,Khanh Hoa,South
+P22,15-18,Female,1303206861.0,374.0,Lam Dong,South
+P22,15-18,Male,354125611.0,99.0,Lam Dong,South
+P22,19-26,Female,2436269195.0,686.0,Lam Dong,South
+P22,19-26,Male,722989370.0,200.0,Lam Dong,South
+P22,27-35,Female,2740600251.0,779.0,Lam Dong,South
+P22,27-35,Male,640621437.0,181.0,Lam Dong,South
+P22,36-45,Female,2466593080.0,708.0,Lam Dong,South
+P22,36-45,Male,609408998.0,172.0,Lam Dong,South
+P22,9-14,Female,1842601697.0,532.0,Lam Dong,South
+P22,9-14,Male,491602401.0,136.0,Lam Dong,South
+P23,15-18,Female,3282257445.0,926.0,Dong Nai,South
+P23,15-18,Male,991081658.0,281.0,Dong Nai,South
+P23,19-26,Female,6042601966.0,1702.0,Dong Nai,South
+P23,19-26,Male,1714136869.0,492.0,Dong Nai,South
+P23,27-35,Female,6350438179.0,1813.0,Dong Nai,South
+P23,27-35,Male,1920970344.0,550.0,Dong Nai,South
+P23,36-45,Female,6692384341.0,1890.0,Dong Nai,South
+P23,36-45,Male,1852007445.0,523.0,Dong Nai,South
+P23,9-14,Female,4729393147.0,1336.0,Dong Nai,South
+P23,9-14,Male,1194936497.0,336.0,Dong Nai,South
+P24,15-18,Female,2366897359.0,676.0,Binh Duong,South
+P24,15-18,Male,635598111.0,183.0,Binh Duong,South
+P24,19-26,Female,4885533350.0,1400.0,Binh Duong,South
+P24,19-26,Male,1593455962.0,445.0,Binh Duong,South
+P24,27-35,Female,5249399837.0,1473.0,Binh Duong,South
+P24,27-35,Male,1396155506.0,396.0,Binh Duong,South
+P24,36-45,Female,5190679405.0,1464.0,Binh Duong,South
+P24,36-45,Male,1305990843.0,371.0,Binh Duong,South
+P24,9-14,Female,4133543191.0,1158.0,Binh Duong,South
+P24,9-14,Male,1118379242.0,321.0,Binh Duong,South
+P25,15-18,Female,2614768038.0,738.0,Ho Chi Minh City,South
+P25,15-18,Male,733407422.0,210.0,Ho Chi Minh City,South
+P25,19-26,Female,5440830184.0,1547.0,Ho Chi Minh City,South
+P25,19-26,Male,1319758841.0,374.0,Ho Chi Minh City,South
+P25,27-35,Female,5427783602.0,1549.0,Ho Chi Minh City,South
+P25,27-35,Male,1329679229.0,376.0,Ho Chi Minh City,South
+P25,36-45,Female,6061861355.0,1718.0,Ho Chi Minh City,South
+P25,36-45,Male,1529114810.0,427.0,Ho Chi Minh City,South
+P25,9-14,Female,4076650714.0,1153.0,Ho Chi Minh City,South
+P25,9-14,Male,992061158.0,276.0,Ho Chi Minh City,South
+P26,15-18,Female,1011215128.0,297.0,Ba Ria - Vung Tau,South
+P26,15-18,Male,258279018.0,71.0,Ba Ria - Vung Tau,South
+P26,19-26,Female,2234522079.0,629.0,Ba Ria - Vung Tau,South
+P26,19-26,Male,545461530.0,149.0,Ba Ria - Vung Tau,South
+P26,27-35,Female,2217764961.0,619.0,Ba Ria - Vung Tau,South
+P26,27-35,Male,591987791.0,164.0,Ba Ria - Vung Tau,South
+P26,36-45,Female,2063422526.0,583.0,Ba Ria - Vung Tau,South
+P26,36-45,Male,480387773.0,131.0,Ba Ria - Vung Tau,South
+P26,9-14,Female,1463827389.0,413.0,Ba Ria - Vung Tau,South
+P26,9-14,Male,528060277.0,151.0,Ba Ria - Vung Tau,South
+P27,15-18,Female,1585580692.0,453.0,Long An,South
+P27,15-18,Male,445569033.0,126.0,Long An,South
+P27,19-26,Female,3255880363.0,917.0,Long An,South
+P27,19-26,Male,879895916.0,247.0,Long An,South
+P27,27-35,Female,3726521841.0,1069.0,Long An,South
+P27,27-35,Male,961845526.0,275.0,Long An,South
+P27,36-45,Female,3481131225.0,991.0,Long An,South
+P27,36-45,Male,1081773342.0,312.0,Long An,South
+P27,9-14,Female,2731261441.0,760.0,Long An,South
+P27,9-14,Male,606930092.0,174.0,Long An,South
+P28,15-18,Female,963034367.0,267.0,Tien Giang,South
+P28,15-18,Male,264987479.0,77.0,Tien Giang,South
+P28,19-26,Female,1949935371.0,561.0,Tien Giang,South
+P28,19-26,Male,560907593.0,154.0,Tien Giang,South
+P28,27-35,Female,1905199242.0,546.0,Tien Giang,South
+P28,27-35,Male,594266020.0,169.0,Tien Giang,South
+P28,36-45,Female,1882060214.0,524.0,Tien Giang,South
+P28,36-45,Male,441339845.0,123.0,Tien Giang,South
+P28,9-14,Female,1400867747.0,401.0,Tien Giang,South
+P28,9-14,Male,504328203.0,147.0,Tien Giang,South
+P29,15-18,Female,1129407367.0,312.0,Can Tho,South
+P29,15-18,Male,372132806.0,108.0,Can Tho,South
+P29,19-26,Female,2374012660.0,671.0,Can Tho,South
+P29,19-26,Male,826007231.0,228.0,Can Tho,South
+P29,27-35,Female,2074527441.0,584.0,Can Tho,South
+P29,27-35,Male,646537550.0,177.0,Can Tho,South
+P29,36-45,Female,2368974210.0,685.0,Can Tho,South
+P29,36-45,Male,543914681.0,156.0,Can Tho,South
+P29,9-14,Female,1773430640.0,509.0,Can Tho,South
+P29,9-14,Male,590116772.0,172.0,Can Tho,South
+P30,15-18,Female,2197925120.0,625.0,Kien Giang,South
+P30,15-18,Male,632049650.0,178.0,Kien Giang,South
+P30,19-26,Female,4097667723.0,1182.0,Kien Giang,South
+P30,19-26,Male,1178460275.0,326.0,Kien Giang,South
+P30,27-35,Female,4093920594.0,1165.0,Kien Giang,South
+P30,27-35,Male,1165550952.0,332.0,Kien Giang,South
+P30,36-45,Female,4619480908.0,1299.0,Kien Giang,South
+P30,36-45,Male,1211377942.0,336.0,Kien Giang,South
+P30,9-14,Female,3339591894.0,970.0,Kien Giang,South
+P30,9-14,Male,1003228001.0,286.0,Kien Giang,South

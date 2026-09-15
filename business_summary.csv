@@ -1,0 +1,7 @@
+﻿Signal,Count,Definition
+White Space HCP,148,Target + Never Engaged + High Potential
+Re-Engagement HCP,2970,Ever Engaged + Not contacted this month
+Conversion Gap HCP,0,Contacted this month + High Potential + Sales = 0
+Untapped Potential HCP,1495,High Potential + Low Uptake
+High Performer HCP,1005,High Potential + High Uptake
+Emerging / Efficient HCP,1495,Low Potential + High Uptake

@@ -1,0 +1,101 @@
+﻿HCP_ID,HCP_Name,Specialty,Patient_Load,Actual_Uptake,Segment
+HCP_0001,Dr. Nguyễn Văn B,Sản phụ khoa,160,0.5994037597439108,Low Pot - High Uptake
+HCP_0002,Dr. Nguyễn Văn C,Ung bướu,224,0.3692267403542723,Low Pot - High Uptake
+HCP_0003,Dr. Nguyễn Văn D,Ung bướu,79,0.36013666299617175,Low Pot - Low Uptake
+HCP_0004,Dr. Nguyễn Văn E,Y học dự phòng,171,0.6147551422538896,Low Pot - Low Uptake
+HCP_0005,Dr. Nguyễn Văn F,Ung bướu,238,0.5388378964482572,High Pot - Low Uptake
+HCP_0006,Dr. Nguyễn Văn G,Sản phụ khoa,45,0.5624986250997168,High Pot - High Uptake
+HCP_0007,Dr. Nguyễn Văn H,Ung bướu,188,0.6464692327194788,High Pot - High Uptake
+HCP_0008,Dr. Nguyễn Văn I,Sản phụ khoa,233,0.799727804589429,Low Pot - Low Uptake
+HCP_0009,Dr. Nguyễn Văn J,Y học dự phòng,170,0.7066489561346846,High Pot - Low Uptake
+HCP_0010,Dr. Nguyễn Văn K,Y học dự phòng,226,0.5213325288538962,High Pot - High Uptake
+HCP_0011,Dr. Nguyễn Văn L,Nhi khoa,98,0.36091828441389706,High Pot - Low Uptake
+HCP_0012,Dr. Nguyễn Văn M,Ung bướu,188,0.23692500265731092,High Pot - High Uptake
+HCP_0013,Dr. Nguyễn Văn N,Ung bướu,187,0.8014361627171026,High Pot - High Uptake
+HCP_0014,Dr. Nguyễn Văn O,Sản phụ khoa,245,0.20723220488233426,High Pot - High Uptake
+HCP_0015,Dr. Nguyễn Văn P,Nhi khoa,167,0.7985839108577683,Low Pot - Low Uptake
+HCP_0016,Dr. Nguyễn Văn Q,Y học dự phòng,125,0.5008935049218751,High Pot - Low Uptake
+HCP_0017,Dr. Nguyễn Văn R,Sản phụ khoa,141,0.4420786095433339,High Pot - High Uptake
+HCP_0018,Dr. Nguyễn Văn S,Ung bướu,121,0.7183329551021441,Low Pot - Low Uptake
+HCP_0019,Dr. Nguyễn Văn T,Ung bướu,50,0.5412570467221757,Low Pot - High Uptake
+HCP_0020,Dr. Nguyễn Văn U,Y học dự phòng,122,0.6393201665198924,High Pot - High Uptake
+HCP_0021,Dr. Nguyễn Văn V,Ung bướu,32,0.5187499087041305,High Pot - Low Uptake
+HCP_0022,Dr. Nguyễn Văn W,Y học dự phòng,128,0.8447275296686576,High Pot - Low Uptake
+HCP_0023,Dr. Nguyễn Văn X,Y học dự phòng,190,0.6878736008606243,High Pot - Low Uptake
+HCP_0024,Dr. Nguyễn Văn Y,Nhi khoa,103,0.635593778096361,Low Pot - Low Uptake
+HCP_0025,Dr. Nguyễn Văn Z,Nhi khoa,195,0.3483868998256151,High Pot - High Uptake
+HCP_0026,Dr. Nguyễn Văn A,Y học dự phòng,145,0.2774838217707095,High Pot - Low Uptake
+HCP_0027,Dr. Nguyễn Văn B,Nhi khoa,203,0.2302472014643888,Low Pot - High Uptake
+HCP_0028,Dr. Nguyễn Văn C,Y học dự phòng,149,0.3334725149918894,Low Pot - High Uptake
+HCP_0029,Dr. Nguyễn Văn D,Y học dự phòng,31,0.8253001318339791,High Pot - High Uptake
+HCP_0030,Dr. Nguyễn Văn E,Nhi khoa,44,0.4403551485015985,Low Pot - High Uptake
+HCP_0031,Dr. Nguyễn Văn F,Y học dự phòng,225,0.6555238107974071,High Pot - High Uptake
+HCP_0032,Dr. Nguyễn Văn G,Nhi khoa,176,0.2380917216380916,Low Pot - High Uptake
+HCP_0033,Dr. Nguyễn Văn H,Sản phụ khoa,100,0.8200018633376984,Low Pot - Low Uptake
+HCP_0034,Dr. Nguyễn Văn I,Ung bướu,220,0.7885035302818705,High Pot - Low Uptake
+HCP_0035,Dr. Nguyễn Văn J,Ung bướu,42,0.7985112695389122,Low Pot - Low Uptake
+HCP_0036,Dr. Nguyễn Văn K,Sản phụ khoa,237,0.5179757629270306,Low Pot - High Uptake
+HCP_0037,Dr. Nguyễn Văn L,Sản phụ khoa,32,0.7507607356640627,Low Pot - Low Uptake
+HCP_0038,Dr. Nguyễn Văn M,Nhi khoa,88,0.27982867557246627,High Pot - High Uptake
+HCP_0039,Dr. Nguyễn Văn N,Sản phụ khoa,78,0.438504904259588,Low Pot - High Uptake
+HCP_0040,Dr. Nguyễn Văn O,Sản phụ khoa,102,0.8408035236594693,High Pot - Low Uptake
+HCP_0041,Dr. Nguyễn Văn P,Y học dự phòng,131,0.7143498207861178,Low Pot - High Uptake
+HCP_0042,Dr. Nguyễn Văn Q,Sản phụ khoa,236,0.7745514928064375,Low Pot - Low Uptake
+HCP_0043,Dr. Nguyễn Văn R,Nhi khoa,200,0.6463311981553242,High Pot - High Uptake
+HCP_0044,Dr. Nguyễn Văn S,Nhi khoa,210,0.672991472826997,High Pot - Low Uptake
+HCP_0045,Dr. Nguyễn Văn T,Ung bướu,232,0.4229589840374176,Low Pot - High Uptake
+HCP_0046,Dr. Nguyễn Văn U,Sản phụ khoa,205,0.20104712980498285,Low Pot - High Uptake
+HCP_0047,Dr. Nguyễn Văn V,Sản phụ khoa,77,0.3572346837965198,High Pot - High Uptake
+HCP_0048,Dr. Nguyễn Văn W,Nhi khoa,163,0.2537606012548064,Low Pot - High Uptake
+HCP_0049,Dr. Nguyễn Văn X,Ung bướu,154,0.5749188681622964,Low Pot - Low Uptake
+HCP_0050,Dr. Nguyễn Văn Y,Nhi khoa,94,0.3284299800731703,High Pot - High Uptake
+HCP_0051,Dr. Nguyễn Văn Z,Sản phụ khoa,37,0.18349812569346088,High Pot - High Uptake
+HCP_0052,Dr. Nguyễn Văn A,Ung bướu,234,0.1092149767526533,High Pot - Low Uptake
+HCP_0053,Dr. Nguyễn Văn B,Nhi khoa,195,0.8622613374239688,High Pot - Low Uptake
+HCP_0054,Dr. Nguyễn Văn C,Nhi khoa,100,0.5262224718597385,High Pot - High Uptake
+HCP_0055,Dr. Nguyễn Văn D,Y học dự phòng,171,0.8695120233812851,Low Pot - High Uptake
+HCP_0056,Dr. Nguyễn Văn E,Y học dự phòng,131,0.43995315392029277,Low Pot - Low Uptake
+HCP_0057,Dr. Nguyễn Văn F,Y học dự phòng,111,0.7154495355124737,Low Pot - Low Uptake
+HCP_0058,Dr. Nguyễn Văn G,Nhi khoa,224,0.1410036067972695,High Pot - High Uptake
+HCP_0059,Dr. Nguyễn Văn H,Y học dự phòng,230,0.8310346461626721,High Pot - Low Uptake
+HCP_0060,Dr. Nguyễn Văn I,Y học dự phòng,72,0.653091220216146,High Pot - Low Uptake
+HCP_0061,Dr. Nguyễn Văn J,Ung bướu,133,0.7417618431558971,High Pot - High Uptake
+HCP_0062,Dr. Nguyễn Văn K,Nhi khoa,176,0.10816828319485268,High Pot - High Uptake
+HCP_0063,Dr. Nguyễn Văn L,Y học dự phòng,95,0.608755628451437,High Pot - Low Uptake
+HCP_0064,Dr. Nguyễn Văn M,Nhi khoa,98,0.20171475724249754,High Pot - High Uptake
+HCP_0065,Dr. Nguyễn Văn N,Sản phụ khoa,179,0.5681215103140587,High Pot - Low Uptake
+HCP_0066,Dr. Nguyễn Văn O,Ung bướu,198,0.13827982535708677,Low Pot - High Uptake
+HCP_0067,Dr. Nguyễn Văn P,Ung bướu,45,0.89162813337961,High Pot - Low Uptake
+HCP_0068,Dr. Nguyễn Văn Q,Y học dự phòng,202,0.21097274733581975,Low Pot - High Uptake
+HCP_0069,Dr. Nguyễn Văn R,Nhi khoa,211,0.7022178133903038,High Pot - High Uptake
+HCP_0070,Dr. Nguyễn Văn S,Ung bướu,223,0.3459318421059739,Low Pot - High Uptake
+HCP_0071,Dr. Nguyễn Văn T,Y học dự phòng,69,0.7901584990198746,Low Pot - High Uptake
+HCP_0072,Dr. Nguyễn Văn U,Sản phụ khoa,92,0.7251785878162614,Low Pot - Low Uptake
+HCP_0073,Dr. Nguyễn Văn V,Ung bướu,192,0.13127496363408558,High Pot - Low Uptake
+HCP_0074,Dr. Nguyễn Văn W,Ung bướu,241,0.7355195401948714,High Pot - High Uptake
+HCP_0075,Dr. Nguyễn Văn X,Ung bướu,33,0.430344130035329,High Pot - High Uptake
+HCP_0076,Dr. Nguyễn Văn Y,Y học dự phòng,73,0.6634445393804287,High Pot - Low Uptake
+HCP_0077,Dr. Nguyễn Văn Z,Y học dự phòng,206,0.8814678511359602,High Pot - High Uptake
+HCP_0078,Dr. Nguyễn Văn A,Sản phụ khoa,175,0.6547890970662233,Low Pot - High Uptake
+HCP_0079,Dr. Nguyễn Văn B,Ung bướu,79,0.38864301053671735,High Pot - High Uptake
+HCP_0080,Dr. Nguyễn Văn C,Y học dự phòng,115,0.5268767774084795,Low Pot - High Uptake
+HCP_0081,Dr. Nguyễn Văn D,Nhi khoa,204,0.6771899651812988,High Pot - Low Uptake
+HCP_0082,Dr. Nguyễn Văn E,Y học dự phòng,195,0.13754309202443366,Low Pot - Low Uptake
+HCP_0083,Dr. Nguyễn Văn F,Ung bướu,58,0.28382280271916327,High Pot - Low Uptake
+HCP_0084,Dr. Nguyễn Văn G,Ung bướu,229,0.22246856023842262,High Pot - High Uptake
+HCP_0085,Dr. Nguyễn Văn H,Y học dự phòng,134,0.8355819196851536,Low Pot - Low Uptake
+HCP_0086,Dr. Nguyễn Văn I,Y học dự phòng,126,0.8812784968897737,Low Pot - High Uptake
+HCP_0087,Dr. Nguyễn Văn J,Y học dự phòng,65,0.7070279421187942,High Pot - Low Uptake
+HCP_0088,Dr. Nguyễn Văn K,Ung bướu,155,0.8680027646747596,Low Pot - Low Uptake
+HCP_0089,Dr. Nguyễn Văn L,Ung bướu,142,0.7168672632319034,High Pot - High Uptake
+HCP_0090,Dr. Nguyễn Văn M,Sản phụ khoa,174,0.5285374253092042,Low Pot - High Uptake
+HCP_0091,Dr. Nguyễn Văn N,Y học dự phòng,138,0.7228915833018383,High Pot - High Uptake
+HCP_0092,Dr. Nguyễn Văn O,Sản phụ khoa,197,0.3143983345604271,High Pot - Low Uptake
+HCP_0093,Dr. Nguyễn Văn P,Y học dự phòng,223,0.25719621603149695,High Pot - Low Uptake
+HCP_0094,Dr. Nguyễn Văn Q,Nhi khoa,207,0.3802309010235104,Low Pot - High Uptake
+HCP_0095,Dr. Nguyễn Văn R,Ung bướu,212,0.7710993575787168,Low Pot - Low Uptake
+HCP_0096,Dr. Nguyễn Văn S,Sản phụ khoa,239,0.29678833748781686,High Pot - High Uptake
+HCP_0097,Dr. Nguyễn Văn T,Ung bướu,188,0.7622514037900798,Low Pot - High Uptake
+HCP_0098,Dr. Nguyễn Văn U,Sản phụ khoa,171,0.3206655281119063,Low Pot - Low Uptake
+HCP_0099,Dr. Nguyễn Văn V,Nhi khoa,40,0.18267602033038496,High Pot - High Uptake
+HCP_0100,Dr. Nguyễn Văn W,Nhi khoa,42,0.24890041402103763,Low Pot - Low Uptake

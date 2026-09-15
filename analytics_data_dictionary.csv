@@ -1,0 +1,35 @@
+﻿Output,Purpose
+overall_kpi.csv,Executive KPI summary
+monthly_sales.csv,Monthly sales and growth
+overview_hcp_overtime.csv,"Target, engaged and contacted HCP overtime"
+geography_performance.csv,Province-level business performance
+geography_pareto.csv,Province sales concentration
+hco_performance.csv,"HCO potential, uptake, sales and opportunity"
+hco_sales_overtime.csv,HCO sales overtime by total and region
+hco_pareto.csv,HCO sales concentration
+hco_growth_latest.csv,Latest-month HCO sales growth
+province_growth.csv,Latest-month province sales growth
+hcp_performance.csv,"HCP potential, uptake, engagement and business signals"
+hcp_pool_overtime.csv,Target and engaged HCP pool overtime
+hcp_opportunity_summary.csv,Four-segment HCP opportunity summary
+hcp_segments_region.csv,HCP opportunity segments by region
+hcp_segments_specialty.csv,HCP opportunity segments by specialty
+hcp_segments_tier.csv,HCP opportunity segments by tier
+top_100_influence_hcp.csv,Top HCPs by influence score with growth and sales
+priority_hcp.csv,High influence + high potential + low uptake HCPs
+hcp_market_research.csv,HCP market research diagnostic
+mr_opportunity_segments.csv,Market research opportunity segments
+barrier_summary.csv,Key HCP market barriers
+hcc_performance.csv,"HCC eligibility, geography and vaccination"
+hcc_conversion.csv,HCC uptake by age group and gender
+hcc_overtime.csv,Monthly and cumulative target HCC and vaccination
+hcc_region_performance.csv,HCC performance by region
+hcc_province_performance.csv,HCC performance by province
+hcc_hco_performance.csv,HCC performance by HCO
+hcc_age_gender.csv,HCC performance by age and gender
+coverage_funnel.csv,Coverage summary from cleaned coverage data
+top_20_hco.csv,Top 20 HCOs by sales
+top_50_hcp.csv,Top 50 HCPs by sales
+top_50_hcc.csv,Top vaccinated target HCC records
+business_summary.csv,Business opportunity signals
+analytics_quality_summary.csv,Analytics-layer sanity checks

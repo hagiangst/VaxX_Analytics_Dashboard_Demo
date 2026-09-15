@@ -1,0 +1,21 @@
+﻿HCO_ID,HCO_Type,Province_ID,Province,Region,Patient_Potential,Vaccine_X_Relevance,Vaccine_X_Potential,_Cleaning_Duplicate_Issue,HCO_Tier,Sales,Units,Vaccinated_HCC,Total_Doses,Engaged_HCP,HCPs_Contacted,Engaged_HCO,Period_Vaccine_X_Potential,Uptake_Rate,Potential_Level,Uptake_Level,Opportunity_Segment
+HCO0563,Hospital,P09,Nam Dinh,North,1646.0,0.7313908758306146,1204.0,False,Tier 1,2539709696.0,708.0,359.0,708.0,1.0,27.0,1.0,24080.0,0.014908637873754153,High Potential,High Uptake,High Performer
+HCO1922,Hospital,P01,Hanoi,North,1064.0,0.9327485384650442,992.0,False,Tier 1,2047050626.0,570.0,292.0,570.0,1.0,15.0,1.0,19840.0,0.01471774193548387,High Potential,High Uptake,High Performer
+HCO0596,Vax Center,P12,Nghe An,Central,1012.0,0.921687595920174,933.0,False,Tier 1,2010286247.0,571.0,282.0,571.0,1.0,9.0,1.0,18660.0,0.015112540192926046,High Potential,High Uptake,High Performer
+HCO0689,Vax Center,P20,Binh Dinh,Central,924.0,0.9603390337192532,887.0,False,Tier 1,2004369355.0,572.0,289.0,572.0,1.0,7.0,1.0,17740.0,0.01629086809470124,High Potential,High Uptake,High Performer
+HCO0440,Hospital,P15,Quang Tri,Central,877.0,0.9039501572524256,793.0,False,Tier 1,1708234213.0,485.0,233.0,485.0,1.0,5.0,1.0,15860.0,0.014691046658259772,High Potential,High Uptake,High Performer
+HCO0052,Hospital,P12,Nghe An,Central,885.0,0.7248808202994504,642.0,False,Tier 1,1667040276.0,480.0,233.0,480.0,1.0,6.0,1.0,12840.0,0.018146417445482867,High Potential,High Uptake,High Performer
+HCO1746,Hospital,P15,Quang Tri,Central,780.0,0.8614306956388871,672.0,False,Tier 1,1565052940.0,443.0,220.0,443.0,1.0,10.0,1.0,13440.0,0.01636904761904762,High Potential,High Uptake,High Performer
+HCO1896,Vax Center,P02,Hai Phong,North,910.0,0.7912632013298032,720.0,False,Tier 1,1554000034.0,435.0,221.0,435.0,1.0,4.0,1.0,14400.0,0.015347222222222222,High Potential,High Uptake,High Performer
+HCO1598,Hospital,P06,Hung Yen,North,1083.0,0.6738509370568225,730.0,False,Tier 1,1550900047.0,446.0,223.0,446.0,1.0,20.0,1.0,14600.0,0.015273972602739726,High Potential,High Uptake,High Performer
+HCO0608,Hospital,P21,Khanh Hoa,South,983.0,0.7547862995967053,742.0,False,Tier 1,1542760273.0,439.0,221.0,439.0,1.0,8.0,1.0,14840.0,0.014892183288409704,High Potential,High Uptake,High Performer
+HCO0288,Hospital,P21,Khanh Hoa,South,983.0,0.8046409557880834,791.0,False,Tier 1,1523335769.0,444.0,217.0,444.0,1.0,14.0,1.0,15820.0,0.013716814159292035,High Potential,Low Uptake,Untapped Potential
+HCO1705,Hospital,P25,Ho Chi Minh City,South,942.0,0.7434775027944185,700.0,False,Tier 1,1471361107.0,409.0,206.0,409.0,1.0,12.0,1.0,14000.0,0.014714285714285714,High Potential,High Uptake,High Performer
+HCO1497,Hospital,P11,Thanh Hoa,Central,748.0,0.9216507643523368,689.0,False,Tier 1,1463300898.0,399.0,202.0,399.0,1.0,21.0,1.0,13780.0,0.014658925979680697,High Potential,High Uptake,High Performer
+HCO0800,Vax Center,P07,Thai Nguyen,North,816.0,0.8675251593110218,708.0,False,Tier 1,1420997515.0,400.0,204.0,400.0,1.0,13.0,1.0,14160.0,0.01440677966101695,High Potential,High Uptake,High Performer
+HCO0698,Hospital,P02,Hai Phong,North,1041.0,0.6821450790281203,710.0,False,Tier 1,1397281552.0,387.0,194.0,387.0,1.0,25.0,1.0,14200.0,0.013661971830985916,High Potential,Low Uptake,Untapped Potential
+HCO1117,Hospital,P23,Dong Nai,South,866.0,0.8053391599374263,697.0,False,Tier 1,1396539592.0,398.0,202.0,398.0,1.0,9.0,1.0,13940.0,0.01449067431850789,High Potential,High Uptake,High Performer
+HCO1715,Hospital,P21,Khanh Hoa,South,1379.0,0.4605641690262483,635.0,False,Tier 1,1351325871.0,380.0,187.0,380.0,1.0,30.0,1.0,12700.0,0.014724409448818898,High Potential,High Uptake,High Performer
+HCO1412,Hospital,P02,Hai Phong,North,846.0,0.7716792442772866,653.0,False,Tier 1,1349707612.0,384.0,195.0,384.0,1.0,9.0,1.0,13060.0,0.014931087289433384,High Potential,High Uptake,High Performer
+HCO1498,Hospital,P14,Quang Binh,Central,880.0,0.7592810583291403,668.0,False,Tier 1,1272139922.0,357.0,177.0,357.0,1.0,8.0,1.0,13360.0,0.013248502994011976,High Potential,Low Uptake,Untapped Potential
+HCO0856,Hospital,P12,Nghe An,Central,740.0,0.7021854527188971,520.0,False,Tier 1,1257772512.0,366.0,182.0,366.0,1.0,15.0,1.0,10400.0,0.0175,High Potential,High Uptake,High Performer
